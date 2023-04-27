@@ -77,7 +77,7 @@ export const info = {
         },
         {
             title: "Projeto 2",
-            source: "", 
+            source: "https://github.com/MarioSakamoto/portfolio.git", 
             image: mock2
         },
         {
